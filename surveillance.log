@@ -1,0 +1,202 @@
+2025-07-16 14:28:40,654 - __main__ - INFO - Database initialized successfully
+2025-07-16 14:28:43,950 - __main__ - INFO - Database initialized successfully
+2025-07-16 14:28:43,950 - __main__ - INFO - Loaded 0 known faces
+2025-07-16 14:29:50,628 - __main__ - INFO - Database initialized successfully
+2025-07-16 14:30:33,100 - __main__ - INFO - Employee cyrus added successfully
+2025-07-16 14:30:36,426 - __main__ - INFO - Database initialized successfully
+2025-07-16 14:30:36,426 - __main__ - INFO - Loaded 1 known faces
+2025-07-16 14:30:40,729 - __main__ - INFO - Attendance logged for 123
+2025-07-16 14:30:57,841 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250716_143057.jpg
+2025-07-16 14:30:59,763 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250716_143059.jpg
+2025-07-16 14:31:02,101 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250716_143102.jpg
+2025-07-16 14:31:11,638 - __main__ - INFO - Attendance logged for 123
+2025-07-17 14:21:06,669 - __main__ - INFO - Database initialized successfully
+2025-07-17 14:21:10,152 - __main__ - INFO - Database initialized successfully
+2025-07-17 14:21:10,153 - __main__ - INFO - Loaded 1 known faces
+2025-07-17 14:21:14,979 - __main__ - INFO - Attendance logged for 123
+2025-07-17 14:21:37,652 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250717_142137.jpg
+2025-07-17 14:21:39,124 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250717_142139.jpg
+2025-07-17 14:21:40,021 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250717_142140.jpg
+2025-07-17 14:21:40,535 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250717_142140.jpg
+2025-07-17 14:21:41,017 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250717_142141.jpg
+2025-07-17 14:21:41,471 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250717_142141.jpg
+2025-07-17 14:21:45,143 - __main__ - INFO - Attendance logged for 123
+2025-07-18 16:56:22,008 - __main__ - INFO - Database initialized successfully
+2025-07-18 16:57:07,932 - __main__ - INFO - Database initialized successfully
+2025-07-18 16:57:07,935 - __main__ - INFO - Loaded 1 known faces
+2025-07-18 16:57:13,044 - __main__ - INFO - Attendance logged for 123
+2025-07-18 16:57:43,651 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_165743.jpg
+2025-07-18 16:57:48,748 - __main__ - INFO - Attendance logged for 123
+2025-07-18 17:20:41,499 - __main__ - INFO - Using device: cpu
+2025-07-18 17:20:41,499 - __main__ - WARNING - Face landmarks file not found at shape_predictor_68_face_landmarks.dat. Face alignment will be disabled.
+2025-07-18 17:20:41,500 - __main__ - INFO - Database initialized successfully
+2025-07-18 17:20:48,760 - __main__ - INFO - Database initialized successfully
+2025-07-18 17:22:43,013 - __main__ - INFO - Using device: cpu
+2025-07-18 17:22:43,013 - __main__ - WARNING - Face landmarks file not found at shape_predictor_68_face_landmarks.dat. Face alignment will be disabled.
+2025-07-18 17:22:43,013 - __main__ - INFO - Database initialized successfully
+2025-07-18 17:22:56,490 - __main__ - INFO - Database initialized successfully
+2025-07-18 17:22:56,494 - __main__ - INFO - Loaded 1 known faces
+2025-07-18 17:36:15,743 - __main__ - INFO - Using device: cpu
+2025-07-18 17:36:15,745 - __main__ - WARNING - Face landmarks file not found at shape_predictor_68_face_landmarks.dat. Face alignment will be disabled.
+2025-07-18 17:36:15,761 - __main__ - INFO - Database initialized successfully
+2025-07-18 17:36:57,986 - __main__ - INFO - Employee cy added successfully
+2025-07-18 17:37:04,796 - __main__ - INFO - Database initialized successfully
+2025-07-18 17:37:04,801 - __main__ - INFO - Loaded 1 known faces
+2025-07-18 17:37:10,524 - __main__ - INFO - Attendance logged for 1
+2025-07-18 17:37:19,979 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_173719.jpg
+2025-07-18 17:37:20,591 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_173720.jpg
+2025-07-18 17:37:21,181 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_173721.jpg
+2025-07-18 17:37:21,523 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_173721.jpg
+2025-07-18 17:37:21,861 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_173721.jpg
+2025-07-18 17:37:22,469 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_173722.jpg
+2025-07-18 17:37:22,803 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_173722.jpg
+2025-07-18 17:37:23,411 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_173723.jpg
+2025-07-18 17:37:23,745 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_173723.jpg
+2025-07-18 17:37:24,103 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_173724.jpg
+2025-07-18 17:43:41,985 - __main__ - INFO - Using device: cpu
+2025-07-18 17:43:41,985 - __main__ - WARNING - Face landmarks file not found at shape_predictor_68_face_landmarks.dat. Face alignment will be disabled.
+2025-07-18 17:43:41,987 - __main__ - INFO - Database initialized successfully
+2025-07-18 17:43:44,384 - __main__ - INFO - Database initialized successfully
+2025-07-18 17:43:44,387 - __main__ - INFO - Loaded 1 known faces
+2025-07-18 17:43:53,311 - __main__ - INFO - Attendance logged for 1
+2025-07-18 17:44:09,738 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_174409.jpg
+2025-07-18 17:44:11,483 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_174411.jpg
+2025-07-18 17:44:13,761 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_174413.jpg
+2025-07-18 17:44:15,795 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_174415.jpg
+2025-07-18 17:44:17,813 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_174417.jpg
+2025-07-18 17:44:21,550 - __main__ - INFO - Processing at 0.8 FPS
+2025-07-18 17:44:25,583 - __main__ - INFO - Attendance logged for 1
+2025-07-18 17:44:52,118 - __main__ - INFO - Processing at 1.0 FPS
+2025-07-18 17:53:10,722 - __main__ - INFO - Using device: cpu
+2025-07-18 17:53:10,722 - __main__ - WARNING - Face landmarks file not found at shape_predictor_68_face_landmarks.dat. Face alignment will be disabled.
+2025-07-18 17:53:10,722 - __main__ - INFO - Database initialized successfully
+2025-07-18 17:53:19,339 - __main__ - INFO - Database initialized successfully
+2025-07-18 17:53:19,343 - __main__ - INFO - Loaded 1 known faces
+2025-07-18 17:53:24,437 - __main__ - INFO - Attendance logged for 1
+2025-07-18 17:53:31,842 - __main__ - INFO - Processing at 2.4 FPS
+2025-07-18 17:53:39,667 - __main__ - INFO - Processing at 3.8 FPS
+2025-07-18 17:53:39,673 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_175339.jpg
+2025-07-18 17:53:40,458 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_175340.jpg
+2025-07-18 17:53:41,039 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_175341.jpg
+2025-07-18 17:53:41,622 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_175341.jpg
+2025-07-18 17:53:42,203 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_175342.jpg
+2025-07-18 17:53:42,784 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_175342.jpg
+2025-07-18 17:53:43,363 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_175343.jpg
+2025-07-18 17:53:47,883 - __main__ - INFO - Processing at 3.7 FPS
+2025-07-18 17:53:54,700 - __main__ - INFO - Attendance logged for 1
+2025-07-18 17:53:55,745 - __main__ - INFO - Processing at 3.8 FPS
+2025-07-18 17:54:12,888 - __main__ - INFO - Using device: cpu
+2025-07-18 17:54:12,889 - __main__ - WARNING - Face landmarks file not found at shape_predictor_68_face_landmarks.dat. Face alignment will be disabled.
+2025-07-18 17:54:12,890 - __main__ - INFO - Database initialized successfully
+2025-07-18 18:00:53,595 - __main__ - INFO - Database initialized successfully
+2025-07-18 18:00:53,599 - __main__ - INFO - Loaded 1 known faces
+2025-07-18 18:00:58,986 - __main__ - INFO - Attendance logged for 1
+2025-07-18 18:01:06,138 - __main__ - INFO - Processing at 2.4 FPS
+2025-07-18 18:03:00,672 - __main__ - INFO - Using device: cpu
+2025-07-18 18:03:00,672 - __main__ - WARNING - Face landmarks file not found at shape_predictor_68_face_landmarks.dat. Face alignment will be disabled.
+2025-07-18 18:03:00,672 - __main__ - INFO - Database initialized successfully
+2025-07-18 18:03:26,878 - __main__ - INFO - Database initialized successfully
+2025-07-18 18:03:26,884 - __main__ - INFO - Loaded 1 known faces
+2025-07-18 18:03:36,511 - __main__ - INFO - Processing at 3.1 FPS
+2025-07-18 18:03:47,638 - __main__ - INFO - Using device: cpu
+2025-07-18 18:03:47,638 - __main__ - WARNING - Face landmarks file not found at shape_predictor_68_face_landmarks.dat. Face alignment will be disabled.
+2025-07-18 18:03:47,640 - __main__ - INFO - Database initialized successfully
+2025-07-18 18:08:17,168 - __main__ - INFO - Database initialized successfully
+2025-07-18 18:08:17,173 - __main__ - INFO - Loaded 1 known faces
+2025-07-18 18:08:26,516 - __main__ - INFO - Processing at 3.2 FPS
+2025-07-18 18:08:28,339 - __main__ - INFO - Attendance logged for 1
+2025-07-18 18:08:34,281 - __main__ - INFO - Processing at 3.9 FPS
+2025-07-18 18:08:42,107 - __main__ - INFO - Processing at 3.8 FPS
+2025-07-18 18:08:49,657 - __main__ - INFO - Processing at 4.0 FPS
+2025-07-18 18:08:57,509 - __main__ - INFO - Processing at 3.8 FPS
+2025-07-18 18:09:30,755 - __main__ - INFO - Using device: cpu
+2025-07-18 18:09:30,755 - __main__ - WARNING - Face landmarks file not found at shape_predictor_68_face_landmarks.dat. Face alignment will be disabled.
+2025-07-18 18:09:30,757 - __main__ - INFO - Database initialized successfully
+2025-07-18 18:09:45,284 - __main__ - INFO - Database initialized successfully
+2025-07-18 18:09:45,286 - __main__ - INFO - Loaded 1 known faces
+2025-07-18 18:09:54,590 - __main__ - INFO - Processing at 3.2 FPS
+2025-07-18 18:10:02,463 - __main__ - INFO - Processing at 3.8 FPS
+2025-07-18 18:10:03,241 - __main__ - INFO - Attendance logged for 1
+2025-07-18 18:10:07,840 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181007.jpg
+2025-07-18 18:10:08,357 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181008.jpg
+2025-07-18 18:10:10,412 - __main__ - INFO - Processing at 3.8 FPS
+2025-07-18 18:10:11,486 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181011.jpg
+2025-07-18 18:10:13,048 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181013.jpg
+2025-07-18 18:10:13,572 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181013.jpg
+2025-07-18 18:10:14,084 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181014.jpg
+2025-07-18 18:10:14,607 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181014.jpg
+2025-07-18 18:10:15,157 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181015.jpg
+2025-07-18 18:10:15,693 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181015.jpg
+2025-07-18 18:10:16,481 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181016.jpg
+2025-07-18 18:10:16,488 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181016.jpg
+2025-07-18 18:10:16,995 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181016.jpg
+2025-07-18 18:10:17,777 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181017.jpg
+2025-07-18 18:10:17,781 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181017.jpg
+2025-07-18 18:10:18,290 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181018.jpg
+2025-07-18 18:10:18,807 - __main__ - INFO - Processing at 3.6 FPS
+2025-07-18 18:10:18,817 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181018.jpg
+2025-07-18 18:10:19,342 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181019.jpg
+2025-07-18 18:10:19,859 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181019.jpg
+2025-07-18 18:10:20,379 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181020.jpg
+2025-07-18 18:10:20,900 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181020.jpg
+2025-07-18 18:10:21,934 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181021.jpg
+2025-07-18 18:10:22,489 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181022.jpg
+2025-07-18 18:10:23,000 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181022.jpg
+2025-07-18 18:10:23,507 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181023.jpg
+2025-07-18 18:10:24,017 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181024.jpg
+2025-07-18 18:10:24,528 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181024.jpg
+2025-07-18 18:10:25,038 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181025.jpg
+2025-07-18 18:10:25,546 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181025.jpg
+2025-07-18 18:10:26,053 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181026.jpg
+2025-07-18 18:10:26,558 - __main__ - INFO - Processing at 3.9 FPS
+2025-07-18 18:10:26,570 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181026.jpg
+2025-07-18 18:10:27,095 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181027.jpg
+2025-07-18 18:10:27,607 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181027.jpg
+2025-07-18 18:10:28,117 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181028.jpg
+2025-07-18 18:10:28,631 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181028.jpg
+2025-07-18 18:10:29,156 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181029.jpg
+2025-07-18 18:10:29,822 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181029.jpg
+2025-07-18 18:10:30,322 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181030.jpg
+2025-07-18 18:10:30,867 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181030.jpg
+2025-07-18 18:10:31,397 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181031.jpg
+2025-07-18 18:10:31,904 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181031.jpg
+2025-07-18 18:10:32,412 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181032.jpg
+2025-07-18 18:10:32,918 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181032.jpg
+2025-07-18 18:10:33,429 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181033.jpg
+2025-07-18 18:10:33,941 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181033.jpg
+2025-07-18 18:10:34,443 - __main__ - INFO - Processing at 3.8 FPS
+2025-07-18 18:10:34,445 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181034.jpg
+2025-07-18 18:10:34,953 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181034.jpg
+2025-07-18 18:10:35,495 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181035.jpg
+2025-07-18 18:10:36,167 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181036.jpg
+2025-07-18 18:10:36,677 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181036.jpg
+2025-07-18 18:10:37,204 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181037.jpg
+2025-07-18 18:10:37,739 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181037.jpg
+2025-07-18 18:10:38,261 - __main__ - INFO - Unknown face logged: unknown_faces/unknown_20250718_181038.jpg
+2025-07-19 11:02:58,348 - __main__ - INFO - Using device: cpu
+2025-07-19 11:02:58,349 - __main__ - WARNING - Face landmarks file not found at shape_predictor_68_face_landmarks.dat. Face alignment will be disabled.
+2025-07-19 11:02:58,349 - __main__ - INFO - Database initialized successfully
+2025-07-19 11:03:46,921 - __main__ - INFO - Database initialized successfully
+2025-07-19 11:03:46,922 - __main__ - INFO - Loaded 1 known faces
+2025-07-19 11:03:53,146 - __main__ - INFO - Attendance logged for 1
+2025-07-19 11:03:59,583 - __main__ - INFO - Processing at 2.4 FPS
+2025-07-19 12:46:05,316 - __main__ - INFO - Using device: cpu
+2025-07-19 12:46:05,316 - __main__ - WARNING - Face landmarks file not found at shape_predictor_68_face_landmarks.dat. Face alignment will be disabled.
+2025-07-19 12:46:05,333 - __main__ - INFO - Database initialized successfully
+2025-07-19 16:54:38,417 - __main__ - INFO - Using device: cpu
+2025-07-19 16:54:38,417 - __main__ - WARNING - Face landmarks file not found at shape_predictor_68_face_landmarks.dat. Face alignment will be disabled.
+2025-07-19 16:54:38,426 - __main__ - INFO - Database initialized successfully
+2025-07-19 16:54:46,328 - __main__ - INFO - Database initialized successfully
+2025-07-19 16:54:46,330 - __main__ - INFO - Loaded 1 known faces
+2025-07-19 16:54:51,827 - __main__ - INFO - Attendance logged for 1
+2025-07-19 16:54:59,689 - __main__ - INFO - Processing at 2.2 FPS
+2025-07-19 16:55:07,439 - __main__ - INFO - Processing at 3.9 FPS
+2025-07-19 16:55:15,347 - __main__ - INFO - Processing at 3.8 FPS
+2025-07-19 16:55:22,188 - __main__ - INFO - Attendance logged for 1
+2025-07-19 16:55:23,227 - __main__ - INFO - Processing at 3.8 FPS
+2025-07-19 17:11:56,425 - __main__ - INFO - Using device: cpu
+2025-07-19 17:11:56,427 - __main__ - WARNING - Face landmarks file not found at shape_predictor_68_face_landmarks.dat. Face alignment will be disabled.
+2025-07-19 17:11:56,427 - __main__ - INFO - Database initialized successfully
+2025-07-20 23:33:21,102 - __main__ - INFO - Using device: cpu
+2025-07-20 23:33:21,102 - __main__ - WARNING - Face landmarks file not found at shape_predictor_68_face_landmarks.dat. Face alignment will be disabled.
+2025-07-20 23:33:21,107 - __main__ - INFO - Database initialized successfully
