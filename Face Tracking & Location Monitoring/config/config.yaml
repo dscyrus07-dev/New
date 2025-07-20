@@ -1,0 +1,80 @@
+# Face Tracking & Location Monitoring System Configuration
+
+# System Settings
+system:
+  debug: false
+  log_level: "INFO"
+  fps_target: 10
+  gpu_enabled: true
+  max_threads: 4
+
+# Camera Settings
+camera:
+  source: 0  # 0 for webcam, or RTSP URL
+  width: 1280
+  height: 720
+  fps: 30
+  buffer_size: 1
+
+# Face Detection Settings
+face_detection:
+  model: "cnn"  # "hog" or "cnn"
+  scale_factor: 0.5
+  confidence_threshold: 0.6
+  min_face_size: 30
+
+# Face Tracking Settings
+tracking:
+  max_age: 30  # Maximum frames to keep track without detection
+  min_hits: 3  # Minimum detections before creating track
+  iou_threshold: 0.3
+  max_cosine_distance: 0.2
+  nn_budget: 100
+
+# Zone Configuration
+zones:
+  entry:
+    name: "Entry Zone"
+    color: [0, 255, 0]  # Green
+    points: [[100, 100], [300, 100], [300, 200], [100, 200]]
+  
+  desk_area:
+    name: "Desk Area"
+    color: [0, 0, 255]  # Red
+    points: [[400, 150], [800, 150], [800, 400], [400, 400]]
+  
+  cafeteria:
+    name: "Cafeteria"
+    color: [255, 0, 0]  # Blue
+    points: [[200, 450], [600, 450], [600, 600], [200, 600]]
+  
+  exit:
+    name: "Exit Zone"
+    color: [255, 255, 0]  # Cyan
+    points: [[900, 100], [1100, 100], [1100, 200], [900, 200]]
+
+# Behavior Analysis Settings
+behavior:
+  eye_aspect_ratio_threshold: 0.25
+  eye_closure_frames: 16
+  yawn_threshold: 20
+  head_pose_threshold: 30
+  drowsiness_time_window: 30  # seconds
+
+# Database Settings
+database:
+  path: "data/tracking.db"
+  backup_interval: 3600  # seconds
+
+# Logging Settings
+logging:
+  log_dir: "data/logs"
+  max_log_size: "10MB"
+  backup_count: 5
+  
+# Alert Settings
+alerts:
+  unknown_person_alert: true
+  zone_violation_alert: true
+  behavior_alert: true
+  email_notifications: false
